@@ -1,5 +1,8 @@
 <div align="center">
-    <h2>Привет, мир 🌍! </h2>
+    <h2>Привет, мир 
+        <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>! </h2>
   <a href="https://discord.gg/CUBuyEjtxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
