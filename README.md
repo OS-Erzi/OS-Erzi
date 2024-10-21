@@ -1,8 +1,4 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/7b/f0/7d/7bf07dbb9354eb96b0b9a737d1a2a3a6.gif" alt="Изображение" width="600" />
-</div>
-
-<div align="center">
     <h1>Привет, мир 🌍! </h1>
 </div>
 
@@ -15,7 +11,9 @@
   </a>
 </div>
 
-###
+<div align="center">
+    <img src="https://i.pinimg.com/originals/7b/f0/7d/7bf07dbb9354eb96b0b9a737d1a2a3a6.gif" alt="Изображение" width="600" />
+</div>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=1" alt="profile view"  />
