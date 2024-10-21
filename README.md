@@ -6,6 +6,7 @@
     <h1>Привет, мир! 🌍 </h1>
 </div>
 
+# 💫 Эбаут ми:
 Я — Бэкенд-разработчик, который увлечён контролем процессов и оптимизацией систем. 💻 Мое увлечение контролем процессов и оптимизацией систем позволяет мне превращать сложные задачи в элегантные решения. 🚀
 
 Сейчас я активно погружен в разработку ботов 🤖, где каждый проект предоставляет возможность экспериментировать и учиться чему-то новому. Я верю, что технологии — это не просто инструменты, а ключи к новым возможностям. 🔑
@@ -13,9 +14,6 @@
 - 🔭 Мой подход к разработке дружелюбный и профессиональный: всегда открыт к диалогу и обмену идеями.
 - 📚 В свободное время увлекаюсь чтением и рисованием, что вдохновляет меня на новые идеи.
 - 🎮 Игры помогают мне находить свежий взгляд на решения в разработке.
-
-# 💫 About Me:
-Hello, world! 🌍 I'm a backend developer who doesn't just code but crafts magic behind the scenes of digital processes. 💻 My passion for process control and system optimization allows me to turn complex challenges into elegant solutions. 🚀<br><br>Currently, I'm diving into the world of bot development 🤖, where each project is an opportunity to experiment and learn something new. I believe that technology is not just a tool but a key to unlocking new possibilities. 🔑<br><br>My approach to development can be described as friendly-professional: I'm always open to dialogue and exchanging ideas. 🤝 In my free time, I enjoy reading 📚, drawing 🎨, and gaming 🎮, which helps me find inspiration and fresh ideas for my work.<br><br>If I had to describe myself in one word, it would be "forester" — not just for my love of nature, but for my ability to navigate uncharted territories in technology.
 
 
 ## 🌐 Socials:
