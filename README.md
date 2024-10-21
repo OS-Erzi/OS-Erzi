@@ -9,6 +9,9 @@
   <a href="https://t.me/discorddisplayduga" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
+</div>
+
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=1" alt="profile view"  />
 </div>
 
