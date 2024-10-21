@@ -49,14 +49,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://github-readme-stats.vercel.app/api/top-langs/?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
