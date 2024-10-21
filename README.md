@@ -21,7 +21,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=2)](https://visitcount.itsvg.in" alt="profile view"  />
 </div>
 
-## 💫 Обо мне:
+### 💫 Обо мне:
 Я — начинающий казуалыч на Python, сейчас увлечённый созданием ботов для Discord. Я работал с библиотеками discord.py, disnake и pycord, а также начинаю осваивать aiogram 3.
 
 - 🔭 Мой подход к разработке дружелюбный и профессиональный: всегда открыт к диалогу и обмену идеями.
@@ -35,7 +35,7 @@
 
 ###
 
-# 💻 Осваиваю:
+### 💻 Осваиваю:
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"  />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"  />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PQL"  />
 </div>
 
-# 🔥 Моя жухлая статистика 
+### 🔥 Моя жухлая статистика 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false" height="200" alt="stats graph"  />
