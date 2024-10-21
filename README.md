@@ -57,7 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <div align="center">
-    <h4>Удивительный факт: Я не являюсь Лесником :> </h4>
+    <h4>🌲 Удивительный факт: Я не являюсь Лесником :> </h4>
 </div>
 
