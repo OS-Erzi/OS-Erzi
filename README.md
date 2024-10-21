@@ -24,13 +24,14 @@
   </a>
 </div>
 
+###
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=2)](https://visitcount.itsvg.in" alt="profile view"  />
   <img src="assets/github-user-contribution.svg" alt="profile view"  />
 </div>
 
-# 💻 Tech Stack:
+# 💻 Осваиваю:
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"  />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"  />
