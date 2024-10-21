@@ -1,4 +1,6 @@
-![Мое изображение](https://i.pinimg.com/originals/4c/58/37/4c5837aa681789abdce15fba2b041f9a.gif)
+<div align="center">
+    <img src="https://i.pinimg.com/originals/4c/58/37/4c5837aa681789abdce15fba2b041f9a.gif" alt="Изображение" width="300" />
+</div>
 
 <div align="center">
     <h1>Привет, мир! 🌍 </h1>
