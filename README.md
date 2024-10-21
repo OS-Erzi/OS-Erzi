@@ -18,7 +18,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=2)](https://visitcount.itsvg.in" alt="profile view"  />
   <img src="assets/github-user-contribution.svg" alt="profile view"  />
 </div>
 
@@ -28,6 +27,12 @@
 - 🔭 Мой подход к разработке дружелюбный и профессиональный: всегда открыт к диалогу и обмену идеями.
 - 📚 В свободное время увлекаюсь чтением и рисованием, что вдохновляет меня на новые идеи.
 - 🎮 Игры помогают мне находить свежий взгляд на решения в разработке.
+
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=2)](https://visitcount.itsvg.in" alt="profile view"  />
+  <img src="assets/github-user-contribution.svg" alt="profile view"  />
+</div>
 
 ###
 
