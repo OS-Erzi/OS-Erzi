@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=2)](https://visitcount.itsvg.in" alt="profile view"  />
+  <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=1" alt="profile view"  />
 </div>
 
 ### 👩‍💻 Обо мне:
