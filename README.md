@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
-
+а
 ###
 
 <div align="center">
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PQL"  />
 </div>
 
+# 🔥 Моя жухлая статистика 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false" height="200" alt="stats graph"  />
