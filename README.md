@@ -1,4 +1,4 @@
-![Мое изображение](https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif)
+![Мое изображение](https://i.pinimg.com/originals/4c/58/37/4c5837aa681789abdce15fba2b041f9a.gif)
 
 <div align="center">
     <h1>Привет, мир! 🌍 </h1>
