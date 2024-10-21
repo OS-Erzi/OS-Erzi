@@ -44,7 +44,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false" height="350" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false" height="300" alt="stats graph"  />
 </div>
 
 <div align="center">
