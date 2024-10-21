@@ -14,7 +14,7 @@
 - 🎮 Игры помогают мне находить свежий взгляд на решения в разработке.
 
 
-## 🌐 Socials:
+## 🌐 Соц. Сети:
 <div align="center">
   <a href="https://discord.gg/CUBuyEjtxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
@@ -46,6 +46,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false" height="350" alt="stats graph"  />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
