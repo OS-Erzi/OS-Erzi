@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1207281675621371966/1207281851882807356/Relax.gif?ex=67183017&is=6716de97&hm=898d486116bc3777a3c3c0ad4ca4e7ae97cbae3071fa25b6effb3bf8b0c533ee&=" alt="Изображение" width="600" />
+    <img src="https://i.pinimg.com/originals/7b/f0/7d/7bf07dbb9354eb96b0b9a737d1a2a3a6.gif" alt="Изображение" width="600" />
 </div>
 
 <div align="center">
