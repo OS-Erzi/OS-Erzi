@@ -21,7 +21,9 @@
     <img src="https://i.pinimg.com/originals/7b/f0/7d/7bf07dbb9354eb96b0b9a737d1a2a3a6.gif" alt="Изображение" width="600" />
 </div>
 
-### 👩‍💻 Обо мне:
+#
+
+##4 👩‍💻 Обо мне:
 Я — начинающий казуалыч на Python, сейчас увлечённый созданием ботов для Discord. 
 Изучил такие библиотеки библиотека для создания ботиков Discord, Telegram.
 
@@ -34,7 +36,7 @@
   <img src="assets/github-user-contribution.svg" alt="profile view"  />
 </div>
 
-###
+#
 
 ### 💻 Осваиваю:
 <div align="center">
@@ -46,6 +48,8 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"  />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PQL"  />
 </div>
+
+#
 
 ### 🔥 Моя жухлая статистика 
 
