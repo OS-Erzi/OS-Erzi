@@ -24,8 +24,6 @@
   </a>
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/erzihq) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@les.n1k) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Erzi4) 
-
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=2)](https://visitcount.itsvg.in" alt="profile view"  />
   <img src="assets/github-user-contribution.svg" alt="profile view"  />
