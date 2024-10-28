@@ -39,7 +39,7 @@
 ### 💻 Осваиваю:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,obsidian,github,discord,bots,vscode,py,js,ts,mongodb,mysql,sqlite," />
+    <img src="https://skillicons.dev/icons?i=windows,obsidian,github,godot,discord,bots,vscode,bash,py,js,ts,mongodb,mysql,sqlite," />
   </a>
 </p>
 #
