@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=windows,mint,obsidian,github,godot,discord,bots,vscode,bash,py,js,ts,mongodb,mysql,sqlite," />
   </a>
 </p>
-#
+###
 
 ### 🔥 Моя жухлая статистика 
 
