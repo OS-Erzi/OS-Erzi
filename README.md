@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <h4>http://invidget.switchblade.xyz/displayduga</h4>
+    <img src="http://invidget.switchblade.xyz/displayduga" alt="invite"  />
   <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=1" alt="profile view"  />
 </div>
 
