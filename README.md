@@ -20,7 +20,7 @@
     <img src="https://i.pinimg.com/originals/7b/f0/7d/7bf07dbb9354eb96b0b9a737d1a2a3a6.gif" alt="Изображение" width="600" />
 </div>
 
-#
+###
 
 ### 👩‍💻 Обо мне:
 Я — начинающий казуалыч на Python, сейчас увлечённый созданием ботов для Discord, Telegram.
@@ -34,7 +34,7 @@
   <img src="assets/github-user-contribution.svg" alt="profile view"  />
 </div>
 
-#
+###
 
 ### 💻 Осваиваю:
 <p align="center">
