@@ -1,64 +1,101 @@
-<div align="center">
-    <div id="header" align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    </div>
-  <a href="https://discord.gg/CUBuyEjtxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="https://t.me/erzih_bot" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</div>
+<h1 align="center">Привет, 🙏 Я Erzi</h1>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Erzih&icon=5&color=1" alt="profile view"  />
-</div>
-
-###
-
-<div align="center">
+ <div align="center">
     <img src="https://i.pinimg.com/originals/7b/f0/7d/7bf07dbb9354eb96b0b9a737d1a2a3a6.gif" alt="Изображение" width="600" />
+ </div>
+ <div align="center">
+<a href="https://github.com/OS-Erzi">
+  <img width="162px" 
+       src="https://komarev.com/ghpvc/?username=OS-Erzi&label=Profile%20views&color=318CE7&style=for-the-badge" 
+       alt="Profile views" /></a>
+<a href="https://api.github-star-counter.workers.dev/user/OS-Erzi">
+  <img width="115px" 
+       alt="Total stars" 
+       title="Total stars on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OS-Erzi" /></a>
+<a href="https://github.com/OS-Erzi?tab=followers">
+  <img width="147px" 
+       alt="Followers" 
+       title="Follow me on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/OS-Erzi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
+ </div>
+
+
+
+<!-- about me -->
+ <h3 align="left">👩‍💻 Обо мне</h3>
+
+
+<h4 align="left">
+
+🌱 Автоматизирую рутину через Python:</br>
+   - Discord/Telegram боты для модерации и аналитики сообществ  </br>
+   - Документация — как инструкция к Lego: должна спасти в 3 AM  </br>
+   - Скрипты для парсинга данных и управления серверами  </br>
+
+💡 Экспериментирую с:  </br>
+   - Микросервисной архитектурой для ботов (Docker + Redis)  </br>
+   - Интеграцией AI в инструменты для комьюнити (NLP для анализа настроений)  </br>
+
+✨ Принципы разработки:  
+   - Чистый код > "работает и ладно"  </br>
+   - Документация — как инструкция к Lego: должна спасти в 3 AM  </br>
+   - Никаких монолитов — только модульные решения  </br>
+
+🔍 Ищу:</br>
+   - Уютные игры для отдыха по типу Stardew Valley.</br>
+   - Магазин с большим выбором хорошего чая.</br>
+</h4> 
+
 </div>
+<br/>
 
-###
+<!-- git stat-->
+<h3 align="center">⚡ Моя жухлая статистика</h3>
+<br>
+<div align="center">
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=OS-Erzi&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10"/>
 
-### 👩‍💻 Обо мне:
-Я — начинающий казуалыч на Python, сейчас увлечённый созданием ботов для Discord, Telegram.
-
-- 🔭 Мой подход к разработке дружелюбный и профессиональный: всегда открыт к диалогу и обмену идеями.
-- 📚 В свободное время увлекаюсь чтением и рисованием, что вдохновляет меня на новые идеи.
-- 🎮 Игры помогают мне находить свежий взгляд на решения в разработке.
-
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os-erzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
 <div align="center">
-  <img src="assets/github-user-contribution.svg" alt="profile view"  />
+  <img src="assets/github-user-contribution.svg" alt="profile_view"  />
 </div>
 
-###
+<br/><br/>
 
-### 💻 Осваиваю:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,mint,obsidian,github,godot,discord,bots,vscode,bash,py,js,ts,mongodb,mysql,sqlite," />
-  </a>
-</p>
+<!-- intr -->
+<h3 align="center">📚 Мне интересно:</h3>
 
-#
-
-### 🔥 Моя жухлая статистика 
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erzih&theme=shadow_blue&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,raspberrypi,arduino" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,obsidian" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,python,javascript,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=vim,htmx,debian,neovim,pwsh" /><br>
 </div>
 
+
+<h3 align="center">💻 Освоил:</h3><br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erzih&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+<div align="center"> 
 </div>
 
-###
 
-<div align="center">
-    <h4>🌲 Удивительный факт: Я не являюсь Лесником :> </h4>
-</div>
+<!-- ending-->
+<!-- I stole it from here. - https://github.com/JoshuaThadi. 
+His profile is very beautifully designed, I couldn't resist.-->
+<a href="https://github.com/OS-Erzi">
+  <img src="assets/japan.gif" alt="-" style="width:auto; height:auto"/>
+</a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
 
